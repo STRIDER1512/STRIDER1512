@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @STRIDER1512
+- 👀 I’m interested in Networking and Cyber Security
+- 🌱 I’m currently learning Front-End Development and Ethical Hacking
+- 💞️ I’m looking to collaborate with Developers and Industry Specialists
+- 📫 Reach me at sriraj151203@gmail.com
+- 🧑‍💼 Linkedin : https://www.linkedin.com/in/sriraj-tata-0499b7228/
