@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strider1512" alt="strider1512" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently exploring the field of **Cyber Security**
 
 - 👯 I’m looking to collaborate on **Cybersecurity and Networking**
 
